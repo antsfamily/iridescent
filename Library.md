@@ -68,7 +68,7 @@
 - [OctoMap](https://octomap.github.io/): An Efficient Probabilistic 3D Mapping Framework Based on Octrees
 
 
-
+- [EGCPP](https://github.com/tauacabreira/EGCPP): Energy-aware Grid Based CPP
 
 
 

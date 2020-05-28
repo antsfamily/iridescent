@@ -2,7 +2,7 @@
 
 
 [lian](https://iridescent.ink/) | [iridescent](https://iridescent.ink/iridescent) | [Gmail](zhiliu.mind@gmail.com) | [EDU](zhiliu@stu.xidian.edu.cn)
-[ORCID](https://orcid.org/0000-0003-4781-7125) | [DBLP](https://dblp.uni-trier.de/pers/hd/l/Liu:Zhi) | [GitHub](https://github.com/antsfamily/) | 
+[ORCID](https://orcid.org/0000-0003-4781-7125) | [DBLP](https://dblp.uni-trier.de/pers/hd/l/Liu:Zhi) | [GitHub](https://github.com/antsfamily/) |
 
 ## Links
 
@@ -11,6 +11,8 @@
 
 **Knowledge** | [Wikipedia](http://en.volupedia.org/ "Wikipedia mirror") | [zbmath](https://zbmath.org/) | [Wolfram Mathworld](http://mathworld.wolfram.com/) | [Magi](https://magi.com/) | [gxs](https://ac.scmor.com/)
 
+**Collections** | [Conference](./Conference.md) | [Journal](./Journal.md)  | [Library](./Library.md) | [Tutorial](./Tutorial.md) | [Homepage](./Homepage.md) |
+
 **Magazines** | [QuantaMagazine](https://www.quantamagazine.org/) | [The Lancet](https://www.thelancet.com)
    | [Nature](https://www.nature.com/)
    | [Science](https://science.sciencemag.org/) | [ScienceJournals](https://www.sciencemag.org/journals) | [ScienceAdvances](https://advances.sciencemag.org/)
@@ -18,11 +20,9 @@
 
 **Community** | [Kesci](https://www.kesci.com/) |
 
-**Paper Publication** | [IEEE Access](https://mc.manuscriptcentral.com/ieee-access) 
 
 **Other** | [time](https://time.is/)
 
-**Collections** | [Conference](./Conference.md) | [Library](./Library.md) | [Tutorial](./Tutorial.md) | [Homepage](./Homepage.md) |
 
 ## My Tutorials
 
