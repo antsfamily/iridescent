@@ -103,6 +103,7 @@ venv.bak/
 # jekyll
 
 _site
+_site/*
 
 
 Tutorials
