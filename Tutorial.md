@@ -38,6 +38,9 @@
 - **MIT Deep Learning**
   - [MIT DL](https://deeplearning.mit.edu/)
 
+- **Deep Learning**
+  - [source](https://github.com/glouppe/info8010-deep-learning)
+
 
 ### Reinforcement Learning
 
