@@ -2,12 +2,14 @@
 
 
 [lian](https://iridescent.ink/) | [iridescent](https://iridescent.ink/iridescent) | [Gmail](zhiliu.mind@gmail.com) | [EDU](zhiliu@stu.xidian.edu.cn)
-[ORCID](https://orcid.org/0000-0003-4781-7125) | [DBLP](https://dblp.uni-trier.de/pers/hd/l/Liu:Zhi) | [GitHub](https://github.com/antsfamily/) | [CSDN](https://iridescent.blog.csdn.net/) |
+[ORCID](https://orcid.org/0000-0003-4781-7125) | [DBLP](https://dblp.uni-trier.de/pers/hd/l/Liu:Zhi) | [Semantic](https://www.semanticscholar.org/) | [GitHub](https://github.com/antsfamily/) | [CSDN](https://iridescent.blog.csdn.net/) |
 
 ## Links
 
 
 **Contact** | [stu.xidian.edu.cn](http://stumail.xidian.edu.cn/) | [ORCID](https://orcid.org/) | [DBLP](https://dblp.uni-trier.de/) | [GitHub](https://github.com/)
+
+**Scholar**  | [Semantic Scholar](https://www.semanticscholar.org/) | [Google Scholar](https://scholar.google.com/) | [BaiDu Scholar](https://xueshu.baidu.com/) | [arXiv.org](https://arxiv.org/)
 
 **Knowledge** | [Wikipedia](http://en.volupedia.org/ "Wikipedia mirror") | [zbmath](https://zbmath.org/) | [Wolfram Mathworld](http://mathworld.wolfram.com/) | [Magi](https://magi.com/) | [gxs](https://ac.scmor.com/)
 
@@ -17,7 +19,9 @@
 **Magazines** | [QuantaMagazine](https://www.quantamagazine.org/) | [The Lancet](https://www.thelancet.com)
    | [Nature](https://www.nature.com/)
    | [Science](https://science.sciencemag.org/) | [ScienceJournals](https://www.sciencemag.org/journals) | [ScienceAdvances](https://advances.sciencemag.org/)
-   | [ScienceDirect](https://www.sciencedirect.com/) | [arXiv.org](https://arxiv.org/)
+   | [ScienceDirect](https://www.sciencedirect.com/) |
+
+**Search** | [Google Dataset Search](https://datasetsearch.research.google.com/) | 
 
 **Community** | [Kesci](https://www.kesci.com/) |
 
