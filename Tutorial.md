@@ -54,7 +54,8 @@
 
 ## Software
 
-| matlab academy      | [homepage](https://matlabacademy.mathworks.com/)  | 
+| matlab academy      | [homepage](https://matlabacademy.mathworks.com/)   |
+| Camtasia Tutorial   | [homepage](https://www.luping.net.cn/jiaoxue.html) |
 
 
 

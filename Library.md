@@ -3,6 +3,8 @@
 
 ## Documents
 
+- [](https://archive.ll.mit.edu/): Archive of Lincoln Laboratory Publications
+
 - [ZLibrary](https://z-lib.org/): [books](https://b-ok.cc/), [articles](https://booksc.xyz/), The world's largest ebook and article library
 
 - [EPDF](https://epdf.pub/): Write A Book And Publish - PDF Free Download
@@ -50,20 +52,35 @@
 
 - [Software by Rice University](http://dsp.rice.edu/software/): a lot of compressive sensing related codes
 - [Software by Derin Babacan](http://www.dbabacan.info/software.html): Sparse and Bayesian compression sensing
+- [Center for Compressive Sensing](http://compsens.eecs.umich.edu/index.php)
+- [Reproducible-Deep-Compressive-Sensing](https://github.com/ngcthuong/Reproducible-Deep-Compressive-Sensing): Collection of reproducible deep learning for compressive sensing
+- [compressed_sensing](https://github.com/dfridovi/compressed_sensing): Image compression using compressed sensing (Matlab, Python)
+- [simple compressed sensing example](https://www.mathworks.com/matlabcentral/fileexchange/41792-simple-compressed-sensing-example): image.
 
 
+### Optimization
+
+#### Lx-Norm
+
+- [L1-Magic](https://statweb.stanford.edu/~candes/software/l1magic/): a collection of MATLAB routines for solving the convex optimization programs central to compressive sampling. 
 
 
 ### Remote Sensing
 
 - [Remote Sensing Code Library](https://rscl-grss.org/)
+- [satellite-image-deep-learning](https://github.com/robmarkcole/satellite-image-deep-learning)
 
 ### Radar
 
 #### Synthetic Aperture Radar
 
 - [Matlab Imaging Software by Toby Sanders](https://www.toby-sanders.com/software): Nanoscale 3D imaging and SAR imaging
-- [CASIE-09 microASAR Processor Demo](https://rscl-grss.org/coderecord.php?id=519)
+- [Synthetic Aperture Radar (SAR) Processing](https://www.mathworks.com/help/dsp/examples/synthetic-aperture-radar-sar-processing.html)
+- [Stripmap Synthetic Aperture Radar (SAR) Image Formation](https://www.mathworks.com/help/phased/examples/stripmap-synthetic-aperture-radar-image-formation.html)
+- [De-Speckling SAR (Synthetic Aperture RADAR) Image](https://www.mathworks.com/matlabcentral/fileexchange/47601-de-speckling-sar-synthetic-aperture-radar-image)
+- [CASIE-09 microASAR Processor Demo](https://rscl-grss.org/coderecord.php?id=519): 
+- [Digital-Processing-of-Synthetic-Radar-Data](https://github.com/Huang-Chuan/Digital-Processing-of-Synthetic-Radar-Data): Repository for the book "Digital Processing of Synthetic Aperture Radar Data: Algorithms and Implementation" by Ian G. Cumming, Frank H. Wong.
+- [mysar](https://github.com/liuxinyu123/mysar)
 
 
 ### Robotics
@@ -79,6 +96,9 @@
 
 
 
+### Programing
+
+- [Certificates](https://curl.haxx.se/docs/caextract.html)
 
 
 
