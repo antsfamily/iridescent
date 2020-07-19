@@ -13,15 +13,15 @@
 
 **Knowledge** | [Wikipedia](http://en.volupedia.org/ "Wikipedia mirror") | [zbmath](https://zbmath.org/) | [Wolfram Mathworld](http://mathworld.wolfram.com/) | [Magi](https://magi.com/) | [gxs](https://ac.scmor.com/)
 
-**Collections** | [Conference](./Conference.md) | [Journal](./Journal.md)  | [Library](./Library.md) | [Tutorial](./Tutorial.md) | [Homepage](./Homepage.md) |
-   | [time](https://time.is/)  |  [benchmark](https://iridescent.ink/benchmark)   | [Collections](./Collections.md)
+**Collections** | [Conference](./Conference.md) | [Journal](./Journal.md)  | [Publisher](./Publisher.md) | [Library](./Library.md) | [Tutorial](./Tutorial.md) |
+   [Homepage](./Homepage.md) | [Time](https://time.is/)  |  [Benchmark](https://iridescent.ink/benchmark) | [Dataset](https://iridescent.ink/dataset.md) | [Collections](./Collections.md)  |
 
 **Magazines** | [QuantaMagazine](https://www.quantamagazine.org/) | [The Lancet](https://www.thelancet.com)
    | [Nature](https://www.nature.com/)
    | [Science](https://science.sciencemag.org/) | [ScienceJournals](https://www.sciencemag.org/journals) | [ScienceAdvances](https://advances.sciencemag.org/)
    | [ScienceDirect](https://www.sciencedirect.com/) |
 
-**Search** | [Google Dataset Search](https://datasetsearch.research.google.com/) | 
+**Search** | [Google Dataset Search](https://datasetsearch.research.google.com/) | [Machine learning datasets](https://www.datasetlist.com/)
 
 **Community** | [Kesci](https://www.kesci.com/) |
 
