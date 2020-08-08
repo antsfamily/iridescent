@@ -60,9 +60,9 @@
 
 ## Others
 
-**local** | [pytorch en](Projects/pytorch/html/index.html "pytorch docs") | [torchvision en](Projects/vision/html/index.html "torchvision docs")  | [numba](Projects/numba/html/index.html "A High Performance Python Compiler") | [Julia en](Projects/julia/html/en/index.html "The Julia Programming Language") [Julia zh](Projects/julia/html/zh/index.html  "The Julia Programming Language") | [Flux](https://fluxml.ai/ "The Elegant Machine Learning Stack")
+**local** | [pytorch en](Projects/pytorch/html/index.html "pytorch docs") | [torchvision en](Projects/vision/html/index.html "torchvision docs") | [pytorch tutorials](Projects/tutorials/html/index.html) |  | [numba](Projects/numba/html/index.html "A High Performance Python Compiler") | [Julia en](Projects/julia/html/en/index.html "The Julia Programming Language") [Julia zh](Projects/julia/html/zh/index.html  "The Julia Programming Language") | [Flux](https://fluxml.ai/ "The Elegant Machine Learning Stack") | [JAX](Projects/jax/html/index.html)
 
-**remote** | [pytorch en](https://pytorch.org/docs/stable/index.html "pytorch docs") [pytorch zh](https://pytorch-cn.readthedocs.io/zh/latest/ "pytorch docs") | [torchvision en](https://pytorch.org/docs/master/torchvision/ "torchvision docs") | [numba](http://numba.pydata.org/ "A High Performance Python Compiler") | [Julia en](https://docs.julialang.org/en "The Julia Programming Language") [Julia zh](https://julia-cn.readthedocs.io/  "The Julia Programming Language") | [Flux](https://fluxml.ai/ "The Elegant Machine Learning Stack")
+**remote** | [pytorch en](https://pytorch.org/docs/stable/index.html "pytorch docs") [pytorch zh](https://pytorch-cn.readthedocs.io/zh/latest/ "pytorch docs") | [pytorch tutorials](https://pytorch.org/tutorials/) | [torchvision en](https://pytorch.org/docs/master/torchvision/ "torchvision docs") | [numba](http://numba.pydata.org/ "A High Performance Python Compiler") | [Julia en](https://docs.julialang.org/en "The Julia Programming Language") [Julia zh](https://julia-cn.readthedocs.io/  "The Julia Programming Language") | [Flux](https://fluxml.ai/ "The Elegant Machine Learning Stack") | [JAX](https://jax.readthedocs.io/en/latest/)
 
 
 

@@ -1,5 +1,9 @@
 # Tutorial
 
+## MIT Open Course
+
+| MIT Open Course | [homepage](https://ocw.mit.edu/) |    |
+| MIT OC SAR | [Search Results](https://ocw.mit.edu/search/ocwsearch.htm?q=SAR)   | [Python for MIT Radar Course](http://www.osmanoglu.org/sar/)  |
 
 
 ## Math
@@ -26,6 +30,12 @@
 
 | Reinforcement Learning and Optimal Control | [homepage](http://web.mit.edu/dimitrib/www/RLbook.html)  |   |   |
 
+
+
+### Self Paced Learning
+
+| | [spbl](http://mmcheng.net/spbl/) |
+| | [mengdeyu](gr.xjtu.edu.cn/web/dymeng/6) |
 
 
 ## Signal Processing
