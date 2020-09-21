@@ -49,4 +49,13 @@
 | Electronics Letters                   | [Electronics Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2220)                                      | [submit](https://www.iet-review.rivervalleytechnologies.com/)    | [letpub](http://www.letpub.com.cn/index.php?journalid=2463&page=journalapp&view=detail)     |   4区   |
 
 
+## New
+
+|  TI       | [The Innovation](http://www.the-innovation.org/)                                           | [submit](https://www.editorialmanager.com/the-innovation/default.aspx)                            | [letpub](http://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=10017)    |  国内新英文期刊   |
+
+
+
+
+
+
 

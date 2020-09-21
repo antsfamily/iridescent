@@ -22,7 +22,13 @@
 - [航空材料知识库](http://123.124.66.24:8085/AerialMaterial/modulePage/index/index.jsp): 用户名：ndip，密码：ndip。包含1300多个材料牌号，一万多张参数表格，4000多条曲线图谱
 
 
+- [Python Sci Library](https://docs.scipy.org/doc/): numpy, scipy with html and pdf format 
+
 ## Software
+
+## Misc
+
+- [Elsevier SoftwareX](https://github.com/ElsevierSoftwareX)
 
 
 ### Image Reconstruction
@@ -35,18 +41,22 @@
 
 - [Institute of Medical Engineering](https://www.tugraz.at/institutes/imt/home/): MR image reconstruction, Local MR-Tomograph, Molecular and cellular imaging
 
+- [Neuroimaging](http://nipy.sourceforge.net/software/projects/): The neuroimaging in python.
+
 - [Operator Discretization Library](https://odlgroup.github.io/odl/index.html): a python library for fast prototyping focusing on (but not restricted to) inverse problems
 
 - [Reconstruction Toolkit (RTK)](http://www.openrtk.org/): an open-source and cross-platform software for fast circular cone-beam CT reconstruction based on the Insight Toolkit (ITK)
 
+- [Blurred Images Restoration](https://yuzhikov.com/articles/BlurredImagesRestoration1.htm): article, code
 
+- [Minimum Entropy Deconvolution Multipack](https://www.mathworks.com/matlabcentral/fileexchange/53484-minimum-entropy-deconvolution-multipack-med-meda-omeda-momeda-mckd): MED, MEDA, OMEDA, MOMEDA, MCKD
 
 ### Signal Processing
 
 #### Basic
 
 - [FINUFFT](https://github.com/flatironinstitute/finufft): Flatiron Institute Nonuniform Fast Fourier Transform libraries, written in C++ with interfaces to C, Fortran, MATLAB/octave, Julia and python.
-
+- [Signal Processing Toolbox](http://www.ece.northwestern.edu/local-apps/matlabhelp/toolbox/signal/spectr9a.html): AR, Burg, Covariance
 
 #### Compressive Sensing
 
@@ -85,6 +95,22 @@
 - [SAR and ISAR with code and docs](https://github.com/denkywu/SAR-Synthetic-Aperture-Radar)
 - [Python for MIT Radar Course](http://www.osmanoglu.org/sar/)
 - [RDA2 RDA3 CSA WK](https://github.com/joeyos/SAR-imaging): Radarsat
+- [SAR specific models](https://github.com/Alien9427/SAR_specific_models): some SAR specific models with strong abilities to extract spatial features of single-polarization Synthetic Aperture Radar (SAR) amplitude images.
+- [FMCW](https://github.com/Ttl/fmcw3): FMCW SAR with hardware design and code.
+- [UAVSAR](https://github.com/TheoBafrali/UAVSAR-MIT-1): MIT, code, data
+- [UASSAR](https://github.com/RickReddy/UASSAR): BP.
+- [RITSAR](https://github.com/dm6718/RITSAR/): WK, BP, AF
+- [OSUBP](https://github.com/yanxuyoung/osubp): BP, [paper](http://spie.org/Publications/Proceedings/Paper/10.1117/12.855375)
+- [SARbackprojection](https://github.com/likemoongg/SARbackprojection): BP
+- [Snow_Radar](https://github.com/DrJones142/Snow_Radar): PFA
+- [SAR](https://github.com/nnaka/sar): AF
+- [ASF Jupyter Notebooks](https://github.com/asfadmin/asf-jupyter-notebooks): This repo contains Jupyter notebooks developed to explore Synthetic Aperature Radar (SAR) data hosted at ASF in a friendly way.
+
+
+#### Detection
+
+- **RmSAT-CFAR** : [paper](https://www.sciencedirect.com/science/article/pii/S235271101730047X), [code](https://github.com/ElsevierSoftwareX/SOFTX-D-17-00008)
+
 
 ### Robotics
 
