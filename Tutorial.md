@@ -12,19 +12,21 @@
 
 | Linear Algebra by Hung yi Li | [homepage](https://datawhalechina.github.io/leela-notes/) | [source](https://github.com/datawhalechina/leela-notes) | [video](https://www.bilibili.com/video/av64160249) |
 | 应用数学基础 2018             | [homepage](http://resource.pku.edu.cn/index.php?r=course/detail&id=315) |   |   |
-
+| | [](https://ccrma.stanford.edu/~jos/mdft/mdft.html) |
 
 
 ## Artificial Intelligence
 
 ### Machine Learning
 
+| All courses by Hung yi Li              | [homepage](http://speech.ee.ntu.edu.tw/~tlkagk/courses.html) |   |    |
+| Machine Learning by Hung yi Li(17)     | [homepage](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17.html)  |   |   |
 | Machine Learning by Hung yi Li         | [homepage](https://datawhalechina.github.io/leeml-notes/)  | [source](https://github.com/datawhalechina/leeml-notes) | [video](https://www.bilibili.com/video/av59538266) |
 | Introduction to Machine Learning, 2012 | [homepage](http://cs.brown.edu/courses/cs195-5/spring2012/calendar.html) |   |   |
 | A Course in Machine Learning           | [homepage](http://ciml.info/) |   |   |
 | MIT Deep Learning                      | [homepage](https://deeplearning.mit.edu/) |   |   |
 | Deep Learning                          | [homepage](https://github.com/glouppe/info8010-deep-learning)  |   |   |
-
+| Deep learning and Computational Radar Imaging | [homepage](https://www.ima.umn.edu/Tags/deep-learning)  |   |   |
 
 ### Reinforcement Learning
 
@@ -52,7 +54,7 @@
 | EO College          | [homepage](https://eo-college.org/) | Earth Observation College                                           |
 | SAR EDU             | [homepage](http://saredu.dlr.de)    | has moved to [EO College](https://eo-college.org/members/sar-edu/)  |
 | Radar Tutorial      | [homepage](https://www.radartutorial.eu/index.en.html) |    |
-
+| Remote Sensing Note | [homepage](http://sar.kangwon.ac.kr/etc/rs_note/rsnote/contents.htm)  |                                          |
 
 
 ### Synthetic Aperture Radar

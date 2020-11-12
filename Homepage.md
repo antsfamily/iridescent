@@ -19,6 +19,8 @@
 | ![](./assets/images/Homepage/ChihYuanYang.png){:height="64px" width="64px"} | [Chih-Yuan Yang](https://eng.ucmerced.edu/people/cyang35) | University of California, Merced | CV, CP, SR, SISR |
 | | [mmcheng](https://mmcheng.net/) |  |
 | | [Henrik](https://hforsten.com/)  |   |   Radar, SAR (hardware, software, design, code  |
+| ![](./assets/images/Homepage/LinShanLee.jpg){:height="64px" width="64px"} | [Lin-shan Lee](http://speech.ee.ntu.edu.tw/) | Speech Processing Laboratory, National Taiwan University | ML, DL, Speech  |
+| ![](./assets/images/Homepage/HungYiLee.png){:height="64px" width="64px"} | [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/)  | Speech Processing Laboratory, National Taiwan University | ML, DL, Speech  |
 
 ## Robotics
 

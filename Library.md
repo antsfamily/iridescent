@@ -24,6 +24,8 @@
 
 - [Python Sci Library](https://docs.scipy.org/doc/): numpy, scipy with html and pdf format 
 
+- [IT ZH](http://apachecn.org/)
+
 ## Software
 
 ## Misc
@@ -105,7 +107,9 @@
 - [Snow_Radar](https://github.com/DrJones142/Snow_Radar): PFA
 - [SAR](https://github.com/nnaka/sar): AF
 - [ASF Jupyter Notebooks](https://github.com/asfadmin/asf-jupyter-notebooks): This repo contains Jupyter notebooks developed to explore Synthetic Aperature Radar (SAR) data hosted at ASF in a friendly way.
-
+- [SAR denoising](https://github.com/MathieuRita/SAR_denoising): SAR denoising using GAN, CNN...
+- [Radar denoising](https://github.com/alexfil2017/RadarDenoising):
+- [Learned SAR Speckle Filter](https://github.com/GeomaticsAndRS/sar): RCNN
 
 #### Detection
 
