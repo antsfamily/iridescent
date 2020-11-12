@@ -13,8 +13,8 @@
 
 **Knowledge** | [Wikipedia](http://en.volupedia.org/ "Wikipedia mirror") | [zbmath](https://zbmath.org/) | [Wolfram Mathworld](http://mathworld.wolfram.com/) | [Magi](https://magi.com/) | [gxs](https://ac.scmor.com/)
 
-**Collections** | [Conference](./Conference.md) | [Journal](./Journal.md)  | [Publisher](./Publisher.md) | [Library](./Library.md) | [Tutorial](./Tutorial.md) |
-   [Homepage](./Homepage.md) | [Time](https://time.is/)  |  [Benchmark](https://iridescent.ink/benchmark) | [Dataset](https://iridescent.ink/dataset) | [Collections](https://iridescent.ink/collection)  |
+**Collections** | [Conference](./Conference.md) | [Journal](./Journal.md)  | [PublisherEn](./PublisherEn.md)  | [PublisherZh](./PublisherZh.md) | [Library](./Library.md) | 
+   [Tutorial](./Tutorial.md) | [Homepage](./Homepage.md) | [Time](https://time.is/)  |  [Benchmark](https://iridescent.ink/benchmark) | [Dataset](https://iridescent.ink/dataset) | [Collections](https://iridescent.ink/collection)  |
 
 **Magazines** | [QuantaMagazine](https://www.quantamagazine.org/) | [The Lancet](https://www.thelancet.com)
    | [Nature](https://www.nature.com/)

@@ -4,10 +4,15 @@
 
 ## Math
 
-| ![](./assets/images/Homepage/YuFeiZhao.jpg){:height="64px" width="64px"} | [Yufei Zhao](http://math.mit.edu/directory/profile.php?pid=1354) | Massachusetts Institute of Technology | Combinatorics <br> discrete mathematics <br> graph theory |
+|                                           Photo                                           |                             Homepage                             |               Institute               |                         Research                          |
+|:-----------------------------------------------------------------------------------------:|:----------------------------------------------------------------:|:-------------------------------------:|:---------------------------------------------------------:|
+|  ![](./assets/images/Homepage/YuFeiZhao.jpg){:height="64px" width="64px" align="middle"}  | [Yufei Zhao](http://math.mit.edu/directory/profile.php?pid=1354) | Massachusetts Institute of Technology | Combinatorics <br> discrete mathematics <br> graph theory |
+| ![](./assets/images/Homepage/StephenBoyd.jpg){:height="64px" width="64px" align="middle"} |        [Stephen P. Boyd](https://web.stanford.edu/~boyd)         |          Stanford University          |   Machine Learning <br> optimization <br> matrix theory   |
 
 ## Artificial Intelligence
 
+|                                            Photo                                            |              Homepage               |                             Institute                              |         Research          |
+|:-------------------------------------------------------------------------------------------:|:-----------------------------------:|:------------------------------------------------------------------:|:-------------------------:|
 | ![](./assets/images/Homepage/Dietterich.png){:height="64px" width="64px"} | [Thomas G.Dietterich](http://web.engr.oregonstate.edu/~tgd/) | Oregon State University | ExplainableAI <br> Robotics |
 | ![](./assets/images/Homepage/Hinton.png){:height="64px" width="64px"} | [Geoffrey E. Hinton](http://www.cs.toronto.edu/~hinton/) | Toronto University | ML, CV, DL |
 | ![](./assets/images/Homepage/LeCun.png){:height="64px" width="64px"} | [Yann LeCun](http://yann.lecun.com/) | New York University | ML, CV, DL |
@@ -22,12 +27,17 @@
 | ![](./assets/images/Homepage/LinShanLee.jpg){:height="64px" width="64px"} | [Lin-shan Lee](http://speech.ee.ntu.edu.tw/) | Speech Processing Laboratory, National Taiwan University | ML, DL, Speech  |
 | ![](./assets/images/Homepage/HungYiLee.png){:height="64px" width="64px"} | [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/)  | Speech Processing Laboratory, National Taiwan University | ML, DL, Speech  |
 
+
 ## Robotics
 
-
-| ![](./assets/images/Homepage/IrvingVasquez.jpg){:height="64px" width="64px"} | [IRVING VASQUEZ](https://jivg.org/) | CONACYT Research Fellow assigned to Instituto Politécnico Nacional | Robotics, <br> CV, DL, PP |
+|                                            Photo                                            |              Homepage               |                             Institute                              |         Research          |
+|:-------------------------------------------------------------------------------------------:|:-----------------------------------:|:------------------------------------------------------------------:|:-------------------------:|
+| ![](./assets/images/Homepage/IrvingVasquez.jpg){:height="64px" width="64px" align="middle"} | [IRVING VASQUEZ](https://jivg.org/) | CONACYT Research Fellow assigned to Instituto Politécnico Nacional | Robotics, <br> CV, DL, PP |
 
 
 ## Misc
 
-| ![](./assets/images/Homepage/MichaelLustig.jpg){:height="64px" width="64px"} | [Michael Lustig new](https://www2.eecs.berkeley.edu/Faculty/Homepages/mlustig.html), [Michael Lustig old](https://people.eecs.berkeley.edu/~mlustig/index.html) | UC Berkeley | MRI, AI, OS... |
+|                                            Photo                                            |                                                                            Homepage                                                                             |                  Institute                  |              Research               |
+|:-------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------:|:-----------------------------------:|
+| ![](./assets/images/Homepage/MichaelLustig.jpg){:height="64px" width="64px" align="middle"} | [Michael Lustig new](https://www2.eecs.berkeley.edu/Faculty/Homepages/mlustig.html), [Michael Lustig old](https://people.eecs.berkeley.edu/~mlustig/index.html) |                 UC Berkeley                 |           MRI, AI, OS...            |
+|  ![](./assets/images/Homepage/MüjdatÇetin.jpg){:height="64px" width="64px" align="middle"}  |                                                      [Müjdat Çetin](http://myweb.sabanciuniv.edu/mcetin/)                                                       | Sabancı University --> Rochester University | Radar, Signal processing, CV, PR... |

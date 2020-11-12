@@ -12,7 +12,7 @@
 
 | Linear Algebra by Hung yi Li | [homepage](https://datawhalechina.github.io/leela-notes/) | [source](https://github.com/datawhalechina/leela-notes) | [video](https://www.bilibili.com/video/av64160249) |
 | 应用数学基础 2018             | [homepage](http://resource.pku.edu.cn/index.php?r=course/detail&id=315) |   |   |
-| | [](https://ccrma.stanford.edu/~jos/mdft/mdft.html) |
+| 离散傅里叶变换的数学基础 | [homepage](https://ccrma.stanford.edu/~jos/mdft/mdft.html) | |  |
 
 
 ## Artificial Intelligence
