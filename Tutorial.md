@@ -59,10 +59,10 @@
 
 ### Synthetic Aperture Radar
 
-
-| SAR EDU             | [homepage](http://saredu.dlr.de)    | has moved to [EO College](https://eo-college.org/members/sar-edu/)  |
-| SAR Journal         | [homepage](http://syntheticapertureradar.com/) | education, library, ...  |
-| ESA Handbooks       | [homepage](https://earth.esa.int/handbooks/)                      |   https://earth.esa.int/ |
+| Computational Imaging | [homepage](https://ima.umn.edu/2019-2020/SW10.14-18.19)    |  math, radar, neural, imaging              |
+| SAR EDU               | [homepage](http://saredu.dlr.de)    | has moved to [EO College](https://eo-college.org/members/sar-edu/)  |
+| SAR Journal           | [homepage](http://syntheticapertureradar.com/) | education, library, ...  |
+| ESA Handbooks         | [homepage](https://earth.esa.int/handbooks/)                      |   https://earth.esa.int/ |
 
 ## Software
 
