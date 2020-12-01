@@ -23,7 +23,7 @@
 
 
 | IEEE TMI        | [IEEE Transactions on Medical Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42)                              |     [submit](https://mc.manuscriptcentral.com/tmi-ieee)                  | [letpub](http://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=3401)      |   1区   |
-| IEEE TCI        | [IEEE Transactions on Computational Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6745852)                   |     [submit](https://mc.manuscriptcentral.com/sps-ieee)             | [letpub](http://www.letpub.com.cn/index.php?page=journalapp&view=search)                     |   2区   |
+| IEEE TCI        | [IEEE Transactions on Computational Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6745852)                   |     [submit](https://mc.manuscriptcentral.com/sps-ieee)             | [letpub](http://www.letpub.com.cn/index.php?journalid=10623&page=journalapp&view=detail)          |   2区   |
 
 
 
