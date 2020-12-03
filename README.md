@@ -16,9 +16,9 @@
 **Collections** | [Question](./Question.md/)  | [Conference](./Conference.md) | [Journal](./Journal.md)  | [PublisherEn](./PublisherEn.md)  | [PublisherZh](./PublisherZh.md) |
    [Library](./Library.md) | [Tutorial](./Tutorial.md) | [Homepage](./Homepage.md) | [Benchmark](https://iridescent.ink/benchmark) | [Dataset](https://iridescent.ink/dataset) | [Collections](https://iridescent.ink/collection)  |
 
-**Magazines** | [QuantaMagazine](https://www.quantamagazine.org/) | [The Lancet](https://www.thelancet.com)
-   | [Nature](https://www.nature.com/)
-   | [Science](https://science.sciencemag.org/) | [ScienceJournals](https://www.sciencemag.org/journals) | [ScienceAdvances](https://advances.sciencemag.org/)
+**Magazines** | [QuantaMagazine](https://www.quantamagazine.org/) | [The Lancet](https://www.thelancet.com) |
+   | [Nature](https://www.nature.com/) |
+   | [Science](https://science.sciencemag.org/) | [ScienceJournals](https://www.sciencemag.org/journals) | [ScienceAdvances](https://advances.sciencemag.org/) |
    | [ScienceDirect](https://www.sciencedirect.com/) |
 
 **Search** | [Google Dataset Search](https://datasetsearch.research.google.com/) | [Machine learning datasets](https://www.datasetlist.com/) | [Data Share](https://datashare.is.ed.ac.uk/) |
