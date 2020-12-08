@@ -19,6 +19,7 @@
 
 ### Machine Learning
 
+| Making neural nets uncool again        | [homepage](https://www.fast.ai/)   |  fast.ai  | LA, ML, DL  |
 | All courses by Hung yi Li              | [homepage](http://speech.ee.ntu.edu.tw/~tlkagk/courses.html) |   |    |
 | Machine Learning by Hung yi Li(17)     | [homepage](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17.html)  |   |   |
 | Machine Learning by Hung yi Li         | [homepage](https://datawhalechina.github.io/leeml-notes/)  | [source](https://github.com/datawhalechina/leeml-notes) | [video](https://www.bilibili.com/video/av59538266) |
