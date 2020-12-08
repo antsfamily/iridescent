@@ -26,6 +26,7 @@
 | | [Henrik](https://hforsten.com/)  |   |   Radar, SAR (hardware, software, design, code  |
 | ![](./assets/images/Homepage/LinShanLee.jpg){:height="64px" width="64px"} | [Lin-shan Lee](http://speech.ee.ntu.edu.tw/) | Speech Processing Laboratory, National Taiwan University | ML, DL, Speech  |
 | ![](./assets/images/Homepage/HungYiLee.png){:height="64px" width="64px"} | [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/)  | Speech Processing Laboratory, National Taiwan University | ML, DL, Speech  |
+| ![](./assets/images/Homepage/SylvainGugger.png){:height="64px" width="64px"} | [Sylvain Gugger](https://sgugger.github.io/)  | fast.ai | ML, DL, Tutorials  |
 
 
 ## Robotics
