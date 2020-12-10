@@ -3,7 +3,7 @@
 
 ## Documents
 
-- [](https://archive.ll.mit.edu/): Archive of Lincoln Laboratory Publications
+- [Archive](https://archive.ll.mit.edu/): Archive of Lincoln Laboratory Publications
 
 - [ZLibrary](https://z-lib.org/): [books](https://b-ok.cc/), [articles](https://booksc.xyz/), The world's largest ebook and article library
 
@@ -25,6 +25,10 @@
 - [Python Sci Library](https://docs.scipy.org/doc/): numpy, scipy with html and pdf format 
 
 - [IT ZH](http://apachecn.org/)
+
+## Plugins
+
+- [LaTex PPT](https://github.com/jph00/latex-ppt): LaTex PPT addin.
 
 ## Software
 
