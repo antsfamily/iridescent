@@ -26,6 +26,9 @@
 
 - [IT ZH](http://apachecn.org/)
 
+
+- [extreme assistant](https://github.com/extreme-assistant/)
+
 ## Plugins
 
 - [LaTex PPT](https://github.com/jph00/latex-ppt): LaTex PPT addin.

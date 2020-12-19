@@ -27,6 +27,9 @@
 | ![](./assets/images/Homepage/LinShanLee.jpg){:height="64px" width="64px"} | [Lin-shan Lee](http://speech.ee.ntu.edu.tw/) | Speech Processing Laboratory, National Taiwan University | ML, DL, Speech  |
 | ![](./assets/images/Homepage/HungYiLee.png){:height="64px" width="64px"} | [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/)  | Speech Processing Laboratory, National Taiwan University | ML, DL, Speech  |
 | ![](./assets/images/Homepage/SylvainGugger.png){:height="64px" width="64px"} | [Sylvain Gugger](https://sgugger.github.io/)  | fast.ai | ML, DL, Tutorials  |
+| ![](./assets/images/Homepage/JianTang.jpg){:height="64px" width="64px"} | [Jian Tang](https://jian-tang.com/)  | Montreal Institute for Learning Algorithms, Canada  | Reasoning, Knowledge Graphs  |
+
+
 
 
 ## Robotics
@@ -41,4 +44,8 @@
 |                                            Photo                                            |                                                                            Homepage                                                                             |                  Institute                  |              Research               |
 |:-------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------:|:-----------------------------------:|
 | ![](./assets/images/Homepage/MichaelLustig.jpg){:height="64px" width="64px" align="middle"} | [Michael Lustig new](https://www2.eecs.berkeley.edu/Faculty/Homepages/mlustig.html), [Michael Lustig old](https://people.eecs.berkeley.edu/~mlustig/index.html) |                 UC Berkeley                 |           MRI, AI, OS...            |
-|  ![](./assets/images/Homepage/MüjdatÇetin.jpg){:height="64px" width="64px" align="middle"}  |                                                      [Müjdat Çetin](http://myweb.sabanciuniv.edu/mcetin/)                                                       | Sabancı University --> Rochester University | Radar, Signal processing, CV, PR... |
+| ![](./assets/images/Homepage/MüjdatÇetin.jpg){:height="64px" width="64px" align="middle"}  |                                                      [Müjdat Çetin](http://myweb.sabanciuniv.edu/mcetin/)                                                       | Sabancı University --> Rochester University | Radar, Signal processing, CV, PR... |
+| ![](./assets/images/Homepage/KfirAberman.jpg){:height="64px" width="64px" align="middle"}  | [Kfir Aberman](https://kfiraberman.github.io/)   |     |  Radar, DL   |
+| ![](./assets/images/Homepage/YoninaEldar.jpg){:height="64px" width="64px" align="middle"}  |  [Yonina Eldar](http://www.wisdom.weizmann.ac.il/~yonina/YoninaEldar/index.html)  |         |  CS, DL, SP, MI   |
+| | [Dynamic Vision and Learning Group](https://dvl.in.tum.de/) |  | Tracking, Focus |
+

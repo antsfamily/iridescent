@@ -42,23 +42,8 @@
 
 **remote** | [improc](https://iridescent.ink/improc/index.html "A Python Toolkit for image processing") | [psar](https://iridescent.ink/psar/ "Python SAR tool") | [tsar](https://iridescent.ink/tsar/ "PyTorch SAR tool") | [iprs3.0](https://iridescent.ink/iprs3.0/index.html "Intelligent Processing platform of Radar Signal") | [pysparse](https://iridescent.ink/pysparse/index.html "A Python Toolkit for Sparse Signal Processing") | [torchlib](https://iridescent.ink/torchlib/index.html "Torch library") | [tifffile](https://iridescent.ink/tifffile/index.html) |
 
-<!-- - **improc**: A Python Toolkit for image processing
-	- [local](Projects/improc/html/index.html)
-	- [remote](https://iridescent.ink/improc/index.html)
-- **iprs3.0**: Intelligent Processing platform of Radar Signal
-	- [local](Projects/iprs3.0/html/index.html)
-	- [remote](https://iridescent.ink/iprs3.0/index.html)
-- **pysparse**: A Python Toolkit for Sparse Signal Processing
-	- [local](Projects/pysparse/html/index.html)
-	- [remote](https://iridescent.ink/pysparse/index.html)
-- **torchtool**: Torch tools
-	- [local](Projects/torchtool/html/index.html)
-	- [remote](https://iridescent.ink/torchtool/index.html)
-- **tifffile**:
-	- [local](Projects/tifffile/html/index.html)
-	- [remote](https://iridescent.ink/tifffile/index.html) -->
 
-## Others
+## Commonly
 
 **local** | [pytorch en](Projects/pytorch/html/index.html "pytorch docs") | [torchvision en](Projects/vision/html/index.html "torchvision docs") | [pytorch tutorials](Tutorials/pytorch/html/index.html) | [numba](Projects/numba/html/index.html "A High Performance Python Compiler") | [Julia en](Projects/julia/html/en/index.html "The Julia Programming Language") [zh](Projects/julia/html/zh/index.html  "The Julia Programming Language") | [Flux](https://fluxml.ai/ "The Elegant Machine Learning Stack") 
 | [JAX](Projects/jax/html/index.html) | [numpy](Projects/numpy/html/index.html) | [scipy](Projects/scipy/html/index.html) | [scikit-learn](Projects/scikit-learn/html/index.html)  | [spectrum](Projects/spectrum/html/index.html) |

@@ -22,7 +22,9 @@
 | Making Neural Nets Uncool Again        | [homepage](https://www.fast.ai/)   |  fast.ai  | LA, ML, DL  |
 | Sylvain Gugger's Tutorials             | [homepage](https://sgugger.github.io/)  | fast.ai | ML, DL, Tutorials  |
 | All courses by Hung yi Li              | [homepage](http://speech.ee.ntu.edu.tw/~tlkagk/courses.html) |   |    |
-| Machine Learning by Hung yi Li(17)     | [homepage](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17.html)  |   |   |
+| Machine Learning by Hung yi Li(2020)   | [homepage](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html) |   |   |
+| Machine Learning by Hung yi Li(2019)   | [homepage](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html) | [video](https://www.bilibili.com/video/av46561029/) | |
+| Machine Learning by Hung yi Li(2017)   | [homepage](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17.html)  |   |   |
 | Machine Learning by Hung yi Li         | [homepage](https://datawhalechina.github.io/leeml-notes/)  | [source](https://github.com/datawhalechina/leeml-notes) | [video](https://www.bilibili.com/video/av59538266) |
 | Introduction to Machine Learning, 2012 | [homepage](http://cs.brown.edu/courses/cs195-5/spring2012/calendar.html) |   |   |
 | A Course in Machine Learning           | [homepage](http://ciml.info/) |   |   |
