@@ -1,6 +1,13 @@
 # Homepage
 
 
+## Institution
+
+| Homepage | Location  | Research  |  Note    |
+|:---------|:----------|:----------|:---------|
+| [Vision and Learning Lab](http://vllab.ucmerced.edu/) | University of California, Merced | CV, ML  | paper, code, dataset  |
+| [Speech Processing Lab](http://speech.ee.ntu.edu.tw/previous_version/index.htm)  | National Taiwan University | speech, ML | paper, course  |
+
 
 ## Math
 
@@ -28,6 +35,8 @@
 | ![](./assets/images/Homepage/HungYiLee.png){:height="64px" width="64px"} | [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/)  | Speech Processing Laboratory, National Taiwan University | ML, DL, Speech  |
 | ![](./assets/images/Homepage/SylvainGugger.png){:height="64px" width="64px"} | [Sylvain Gugger](https://sgugger.github.io/)  | fast.ai | ML, DL, Tutorials  |
 | ![](./assets/images/Homepage/JianTang.jpg){:height="64px" width="64px"} | [Jian Tang](https://jian-tang.com/)  | Montreal Institute for Learning Algorithms, Canada  | Reasoning, Knowledge Graphs  |
+| ![](./assets/images/Homepage/LeiZhang.jpg){:height="64px" width="64px"} | [Lei Zhang](http://www4.comp.polyu.edu.hk/~cslzhang/)  | The Hong Kong Polytechnic University   | Image restore, machine learning, paper and code  |
+| ![](./assets/images/Homepage/WeiShengLai.jpg){:height="64px" width="64px"} | [WeiSheng Lai](https://www.wslai.net/)  | Google  | Image restore, ML, paper, dataset, code  |
 
 
 

@@ -45,6 +45,7 @@
 
 ## Misc
 
+| IEEE Sensors Journal             | [IEEE Sensors Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361)                                           | [submit](https://mc.manuscriptcentral.com/sensors)                            | [letpub](http://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=3352)    |   2区   |
 | IEEE Access                           | [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639)                                           | [submit](https://mc.manuscriptcentral.com/ieee-access)                            | [letpub](http://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=10017)    |   2区   |
 | Electronics Letters                   | [Electronics Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2220)                                      | [submit](https://www.iet-review.rivervalleytechnologies.com/)    | [letpub](http://www.letpub.com.cn/index.php?journalid=2463&page=journalapp&view=detail)     |   4区   |
 
