@@ -15,6 +15,7 @@
 
 **Collections** | [Question](./Question.md/)  | [Conference](./Conference.md) | [Journal](./Journal.md)  | [PublisherEn](./PublisherEn.md)  | [PublisherZh](./PublisherZh.md) |
    [Library](./Library.md) | [Tutorial](./Tutorial.md) | [Homepage](./Homepage.md) | [Benchmark](https://iridescent.ink/benchmark) | [Dataset](https://iridescent.ink/dataset) | [Collections](https://iridescent.ink/collection)  |
+| [Guide](./Guide.md) |
 
 **Magazines** | [QuantaMagazine](https://www.quantamagazine.org/) | [The Lancet](https://www.thelancet.com) |
    | [Nature](https://www.nature.com/) |
