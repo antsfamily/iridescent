@@ -31,4 +31,10 @@ see [extreme assistant](https://github.com/extreme-assistant/) for paper summari
 | IET International Radar Conference     | [2020](http://www.ietradar.org/)                        |
 
 
+# Misc
+
+- [Conference Rebuttal](https://www.cnblogs.com/baidut/p/6375371.html)
+
+
+
 
