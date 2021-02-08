@@ -116,6 +116,7 @@
 - [ASF Jupyter Notebooks](https://github.com/asfadmin/asf-jupyter-notebooks): This repo contains Jupyter notebooks developed to explore Synthetic Aperature Radar (SAR) data hosted at ASF in a friendly way.
 - [SAR denoising](https://github.com/MathieuRita/SAR_denoising): SAR denoising using GAN, CNN...
 - [Radar denoising](https://github.com/alexfil2017/RadarDenoising):
+- [PyRadar](https://github.com/PyRadar/pyradar): nosing with K distribution.. and denoising.
 - [Learned SAR Speckle Filter](https://github.com/GeomaticsAndRS/sar): RCNN
 
 #### Detection
