@@ -19,18 +19,21 @@
 
 ### Machine Learning
 
+| Data-Driven Science and Engineering | [homepage](http://databookuw.com/)  | [video](https://www.youtube.com/playlist?list=PLMrJAkhIeNNRpsRhXTMt8uJdIGz9-X_1-), [video](https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw/featured)  | [book, code](http://databookuw.com/), LA, ML, RL |
 | Making Neural Nets Uncool Again        | [homepage](https://www.fast.ai/)   |  fast.ai  | LA, ML, DL  |
 | Sylvain Gugger's Tutorials             | [homepage](https://sgugger.github.io/)  | fast.ai | ML, DL, Tutorials  |
 | All courses by Hung yi Li              | [homepage](http://speech.ee.ntu.edu.tw/~tlkagk/courses.html) |   |    |
 | Machine Learning by Hung yi Li(2020)   | [homepage](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html) | [video](https://www.bilibili.com/video/BV1JE411g7XF/)  |   |
 | Machine Learning by Hung yi Li(2019)   | [homepage](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html) | [video](https://www.bilibili.com/video/av46561029/) | |
 | Machine Learning by Hung yi Li(2017)   | [homepage](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17.html)  |   |   |
-| Machine Learning by Hung yi Li         | [homepage](https://datawhalechina.github.io/leeml-notes/)  | [source](https://github.com/datawhalechina/leeml-notes) | [video](https://www.bilibili.com/video/av59538266) |
+| Machine Learning by Hung yi Li         | [homepage](https://datawhalechina.github.io/leeml-notes/)  | [video](https://www.bilibili.com/video/av59538266) | [source](https://github.com/datawhalechina/leeml-notes) |
 | Introduction to Machine Learning, 2012 | [homepage](http://cs.brown.edu/courses/cs195-5/spring2012/calendar.html) |   |   |
 | A Course in Machine Learning           | [homepage](http://ciml.info/) |   |   |
 | MIT Deep Learning                      | [homepage](https://deeplearning.mit.edu/) |   |   |
 | Deep Learning                          | [homepage](https://github.com/glouppe/info8010-deep-learning)  |   |   |
 | Deep learning and Computational Radar Imaging | [homepage](https://www.ima.umn.edu/Tags/deep-learning)  |   |   |
+
+
 
 ### Reinforcement Learning
 
