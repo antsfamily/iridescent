@@ -32,6 +32,11 @@
 
 | IEEE TIP       | [IEEE Transactions on Image Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83)                              | [submit](https://mc.manuscriptcentral.com/sps-ieee)                 | [letpub](http://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=3390)      |   1区   |
 
+### Signal Processing
+
+| Signal Processing      | [Signal Processing](https://www.journals.elsevier.com/signal-processing)                     | [submit](https://www.editorialmanager.com/sigpro/default.aspx)                 | [letpub](http://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=7505)      |   1区   |
+| IEEE Transactions on  Signal Processing      | [IEEE Transactions on Signal Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=78)                     | [submit](http://mc.manuscriptcentral.com/sps-ieee)        | [letpub](http://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=3419)      |   1区   |
+
 
 ## Remote Sensing
 
