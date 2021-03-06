@@ -40,7 +40,14 @@
 - [Elsevier SoftwareX](https://github.com/ElsevierSoftwareX)
 
 
+### Computational imaging
+
+- [GitHub, The University of Texas Computational Sensing and Imaging Lab](https://github.com/utcsilab): MRI, Python, Deep Inverse
+
+
+
 ### Image Reconstruction
+
 
 - [Michigan Image Reconstruction Toolbox (MIRT)](https://web.eecs.umich.edu/~fessler/code/index.html): Tomographic imaging (PET, SPECT, X-ray CT), MRI reconstruction, FFT
 
@@ -79,10 +86,10 @@
 
 ### Optimization
 
-#### Lx-Norm
+#### Convex-Norm
 
 - [L1-Magic](https://statweb.stanford.edu/~candes/software/l1magic/): a collection of MATLAB routines for solving the convex optimization programs central to compressive sampling. 
-
+- [Stanford University Convex Optimization Group](https://github.com/cvxgrp/): Convex optimization in Python
 
 ### Remote Sensing
 

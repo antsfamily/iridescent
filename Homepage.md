@@ -7,6 +7,8 @@
 |:--------------------------------------------------------------------------------|:---------------------------------|:-----------|:---------------------|
 | [Vision and Learning Lab](http://vllab.ucmerced.edu/)                           | University of California, Merced | CV, ML     | paper, code, dataset |
 | [Speech Processing Lab](http://speech.ee.ntu.edu.tw/previous_version/index.htm) | National Taiwan University       | speech, ML | paper, course        |
+| [Convex Optimization Group](https://web.stanford.edu/~boyd/) , [GitHub](https://github.com/cvxgrp/) | Stanford University      | optimization | paper, course, code  |
+| [Computational Sensing and Imaging Lab](https://web.stanford.edu/~boyd/) , [GitHub](https://github.com/utcsilab) | The University of Texas    | computational imaging, ML, MRI, DL | paper, course, code  |
 
 
 ## Math
@@ -39,6 +41,7 @@
 |  ![](./assets/images/Homepage/WeiShengLai.jpg){:height="64px" width="64px"}  |                                    [WeiSheng Lai](https://www.wslai.net/)                                     |                          Google                          |     Image restore, ML, paper, dataset, code     |
 |  ![](./assets/images/Homepage/Wu-ShengLu.png){:height="64px" width="64px"}   |                                 [Wu-Sheng Lu](https://www.ece.uvic.ca/~wslu/)                                 |                  University of Victoria                  |       DSP, DIP, ML, Optimization, classes       |
 | ![](./assets/images/Homepage/SteveBrunton.png){:height="64px" width="64px"}  | [Steve Brunton](https://www.eigensteve.com/) or [](https://www.me.washington.edu/facultyfinder/steve-brunton) |         Data Science Fellow, eScience Institute          |             ML, Math, Books, Videos             |
+| ![](./assets/images/Homepage/JonTamir.png){:height="64px" width="64px"}  | [Jon Tamir](https://www.users.ece.utexas.edu/~jtamir/) |  The University of Texas Computational Sensing and Imaging Lab    |             Computational Imaging, MRI, Papers, Codes, Teachings         |
 
 
 
