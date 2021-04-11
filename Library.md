@@ -80,8 +80,9 @@
 - [Software by Derin Babacan](http://www.dbabacan.info/software.html): Sparse and Bayesian compression sensing
 - [Center for Compressive Sensing](http://compsens.eecs.umich.edu/index.php)
 - [Reproducible-Deep-Compressive-Sensing](https://github.com/ngcthuong/Reproducible-Deep-Compressive-Sensing): Collection of reproducible deep learning for compressive sensing
-- [compressed_sensing](https://github.com/dfridovi/compressed_sensing): Image compression using compressed sensing (Matlab, Python)
-- [simple compressed sensing example](https://www.mathworks.com/matlabcentral/fileexchange/41792-simple-compressed-sensing-example): image.
+- [Compressed_sensing](https://github.com/dfridovi/compressed_sensing): Image compression using compressed sensing (Matlab, Python)
+- [Simple compressed sensing example](https://www.mathworks.com/matlabcentral/fileexchange/41792-simple-compressed-sensing-example): image.
+- [Bayesian Compressive Sensing Standalone Solver](https://github.com/rosenbrockc/bcs): image.
 
 
 ### Optimization
