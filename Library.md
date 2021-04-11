@@ -38,7 +38,7 @@
 ## Misc
 
 - [Elsevier SoftwareX](https://github.com/ElsevierSoftwareX)
-
+- [CS, FPR, DIP, TFA toolbox](https://github.com/kamath-abhijith): tutorial
 
 ### Computational imaging
 
