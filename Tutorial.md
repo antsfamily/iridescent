@@ -14,6 +14,9 @@
 | 应用数学基础 2018             | [homepage](http://resource.pku.edu.cn/index.php?r=course/detail&id=315) |   |   |
 | 离散傅里叶变换的数学基础 | [homepage](https://ccrma.stanford.edu/~jos/mdft/mdft.html) | |  |
 
+### Optimization
+
+| Proximal Operator | [homepage](http://proximity-operator.net/) | [code](http://proximity-operator.net/index.html) | [tutorial](http://proximity-operator.net/tutorial.html)  |
 
 ## Artificial Intelligence
 

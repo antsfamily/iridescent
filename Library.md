@@ -39,10 +39,18 @@
 
 - [Elsevier SoftwareX](https://github.com/ElsevierSoftwareX)
 - [CS, FPR, DIP, TFA toolbox](https://github.com/kamath-abhijith): tutorial
+- [Fabrice Bellard](https://bellard.org/): many usefull program
 
 ### Computational imaging
 
 - [GitHub, The University of Texas Computational Sensing and Imaging Lab](https://github.com/utcsilab): MRI, Python, Deep Inverse
+
+### Image Compression
+
+- [JPEG Group](https://jpeg.org/index.html)
+  - [JPEG1](https://jpeg.org/jpeg/software.html): 
+  - [OpenJPEG](http://www.openjpeg.org/):  An open-source JPEG 2000 codec written in C language. 
+- [BPG](https://bellard.org/bpg/): 
 
 
 
@@ -91,6 +99,10 @@
 
 - [L1-Magic](https://statweb.stanford.edu/~candes/software/l1magic/): a collection of MATLAB routines for solving the convex optimization programs central to compressive sampling. 
 - [Stanford University Convex Optimization Group](https://github.com/cvxgrp/): Convex optimization in Python
+
+#### Proximal Operator
+
+- [The Proximity Operator Repository](http://proximity-operator.net/index.html)
 
 ### Remote Sensing
 
