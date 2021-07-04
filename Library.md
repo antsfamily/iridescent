@@ -40,6 +40,7 @@
 - [Elsevier SoftwareX](https://github.com/ElsevierSoftwareX)
 - [CS, FPR, DIP, TFA toolbox](https://github.com/kamath-abhijith): tutorial
 - [Fabrice Bellard](https://bellard.org/): many usefull program
+- [The Algorithms](https://the-algorithms.com/): All Algorithms implemented in Python
 
 ### Computational imaging
 
