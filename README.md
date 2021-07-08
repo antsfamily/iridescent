@@ -9,7 +9,7 @@
 
 **Contact** | [stu.xidian.edu.cn](http://stumail.xidian.edu.cn/) | [ORCID](https://orcid.org/) | [DBLP](https://dblp.uni-trier.de/) | [GitHub](https://github.com/) |
 
-**Scholar**  | [Semantic Scholar](https://www.semanticscholar.org/) | [Google Scholar](https://scholar.google.com/), [gxs](https://ac.scmor.com/) | [BaiDu Scholar](https://xueshu.baidu.com/) | [arXiv.org](https://arxiv.org/) |
+**Scholar**  | [Semantic Scholar](https://www.semanticscholar.org/) | [Google Scholar](https://scholar.google.com/), [gxs](https://ac.scmor.com/) | [BaiDu Scholar](https://xueshu.baidu.com/) | [arXiv.org](https://arxiv.org/) | [xidian xwfw](http://xwfw.xidian.edu.cn:8080) | [xidian tyrz](http://2403xdkd.portal.chaoxing.com/engine2/general/2186979/detail?pageId=14305&engineInstanceId=32204)|
 
 **Knowledge** | [Time](https://time.is/) | [Wikipedia](http://en.volupedia.org/ "Wikipedia mirror") | [zbmath](https://zbmath.org/) | [Wolfram Mathworld](http://mathworld.wolfram.com/) | [Magi](https://magi.com/) | [tdc](https://towardsdatascience.com) |
 
