@@ -13,7 +13,7 @@
 | IEEE TPAMI      | [IEEE Transactions on Pattern Analyiss and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)    |     [submit](https://mc.manuscriptcentral.com/tpami-cs)               | [letpub](http://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=3411)      |   1区   |
 | IEEE TFS        | [IEEE Transactions on Fuzzy Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=91)                                |     [submit](http://mc.manuscriptcentral.com/tfs-ieee)                  | [letpub](http://www.letpub.com.cn/index.php?journalid=3388&page=journalapp&view=detail)      |   1区   |
 | Neurocomputing  | [Neurocomputing](https://www.journals.elsevier.com/neurocomputing/)                                                              |     [submit](https://ees.elsevier.com/neucom/default.asp)                  | [letpub](http://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=6141)      |   2区   |
-
+| Applied Intelligence  | [Applied Intelligence](https://www.springer.com/journal/10489)                                                              |     [submit](https://www.editorialmanager.com/APIN)                  | [letpub](http://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=737)      |   3区   |
 
 
 ## Application
